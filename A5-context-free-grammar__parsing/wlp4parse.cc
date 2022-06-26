@@ -1,3 +1,15 @@
+#include <iostream>
+#include <string>
+#include <vector>
+#include <map>
+#include <utility>
+#include <algorithm>
+#include <sstream>
+#include <memory>
+#include "wlp4data.h"
+
+using namespace std;
+
 // actual code starts here
 struct Node {
     string production_rule = "";
